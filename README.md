@@ -1,6 +1,6 @@
-# GOACS2 Module 3 - File Practice
+# GOACS2 Module 5 - Dictionary Practice
 
-Please complete all of the programs as described on the assignment page.
+Please complete the program as described on the assignment page.
 
 ---
 
